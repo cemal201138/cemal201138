@@ -24,5 +24,5 @@ Teknolojiye, yazılıma, yapay zekaya ve özellikle **Python** ile projeler geli
 [GitHub](https://github.com/cemal201138) • [E-posta](mailto:evlicemal38@gmail.com) • [Sosyal Medya Hesaplarım](https://linktr.ee/CemalEvli)
 
 
-> “Küçük adımlar, büyük sistemlerin temelidir.”
+> “**Küçük adımlar, büyük sistemlerin temelidir.**”
 
