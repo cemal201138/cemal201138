@@ -2,7 +2,6 @@
 
 Ben Cemal, 9. sınıf öğrencisiyim.  
 Teknolojiye, yazılıma ve özellikle **Python** ile projeler geliştirmeye ilgim var.  
-Bilgisayarımda **Windows 10 Pro (ASUS X555LN)** kullanıyorum.  
 
 ## 🚀 Şu anda neler yapıyorum?
 - 🎧 Python ile **basit masaüstü araçları** geliştiriyorum.  
