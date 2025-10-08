@@ -6,7 +6,6 @@ Teknolojiye, yazılıma, yapay zekaya ve özellikle **Python** ile projeler geli
 ## 🚀 Şu anda neler yapıyorum?
 - 🎧 Python ile **basit masaüstü araçları** geliştiriyorum.  
 - 📱 **Android–Windows etkileşimi** için **Pushbullet** tabanlı projeler üzerinde çalışıyorum.
-- 🧩 **Kodular** platformunda küçük mobil uygulamalar tasarlıyorum. 
 - 💡 Yazılımın mantığını anlamaya ilgi duyuyorum  
 
 ## 🧠 Bildiklerim & Öğrenmekte olduklarım
