@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Cemal!
 
 Ben Cemal, 9. sınıf öğrencisiyim.  
-Teknolojiye, yazılıma ve özellikle **Python** ile projeler geliştirmeye ilgim var.  
+Teknolojiye, yazılıma, yapay zekaya ve özellikle **Python** ile projeler geliştirmeye ilgim var.  
 
 ## 🚀 Şu anda neler yapıyorum?
 - 🎧 Python ile **basit masaüstü araçları** geliştiriyorum.  
