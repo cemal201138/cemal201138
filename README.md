@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Merhaba, ben Cemal!
 
-<!--
-**cemal201138/cemal201138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Cemal, 9. sınıf öğrencisiyim.  
+Teknolojiye, yazılıma ve özellikle **Python** ile projeler geliştirmeye ilgim var.  
+Bilgisayarımda **Windows 10 Pro (ASUS X555LN)** kullanıyorum.  
 
-Here are some ideas to get you started:
+## 🚀 Şu anda neler yapıyorum?
+- 🎧 Python ile **basit masaüstü araçları** geliştiriyorum.  
+- 📱 **Android–Windows etkileşimi** için **Pushbullet** tabanlı projeler üzerinde çalışıyorum.
+- 🧩 **Kodular** platformunda küçük mobil uygulamalar tasarlıyorum. 
+- 💡 Yazılımın mantığını anlamaya ilgi duyuyorum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Bildiklerim & Öğrenmekte olduklarım
+- Python 🐍   
+- Linux temelleri 🧰  
+- Git & GitHub kullanımı   
+
+## 🎯 Hedeflerim
+- Kendi **Android uygulamamı sıfırdan kodlamak**  
+- **Python ile masaüstü araçları** geliştirmeye çalışmaya devam etmek 
+- **Ağ üzerinden cihaz kontrolü** ve **otomasyon** sistemleri kurmak  
+
+---
+
+📫 **Bana ulaş:**  
+[GitHub](https://github.com/cemal201138) • [E-posta](mailto:evlicemal38@gmail.com)
+
+> “Küçük adımlar, büyük sistemlerin temelidir.”
+
