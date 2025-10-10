@@ -10,8 +10,8 @@ Teknolojiye, yazılıma, yapay zekaya ve özellikle **Python** ile projeler geli
 
 ## 🧠 Bildiklerim & Öğrenmekte olduklarım
 - Python 🐍   
-- Linux temelleri 🧰  
-- Git & GitHub kullanımı   
+- Linux (Temel-Başlangıç)🧰  
+- GitHub kullanımı   
 
 ## 🎯 Hedeflerim
 - Kendi **Android uygulamamı sıfırdan kodlamak**  
