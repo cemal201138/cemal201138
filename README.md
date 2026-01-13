@@ -9,9 +9,10 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 - 💡 Yazılımın mantığını anlamaya ilgi duyuyorum  
 
 ## 🧠 Bildiklerim & Öğrenmekte olduklarım
-- Python (Temel-Başlangıç)🐍   
-- Linux (Temel-Başlangıç)🧰  
-- GitHub kullanımı   
+- Python🐍   
+- Linux🧰  
+- GitHub kullanımı
+- (Hepsi "Temel-Başlangıç" Seviyesindedir)
 
 ## 🎯 Hedeflerim
 - Kendi **Android uygulamamı sıfırdan kodlamak**  
