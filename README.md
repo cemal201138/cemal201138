@@ -28,6 +28,8 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ❗ Bu Hesaptaki Projelerde Yapay Zekadan Yararlanılmaktadır ❗
 
+---
+
 
 > “**Küçük adımlar, büyük sistemlerin temelidir.**”
 
