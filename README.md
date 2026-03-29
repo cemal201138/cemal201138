@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Cemal!
+# 👋 Merhaba, ben Cemal!!
 
 Ben Cemal, 9. sınıf öğrencisiyim.  
 Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Python** ile projeler geliştirmeyi seviyorum.  
