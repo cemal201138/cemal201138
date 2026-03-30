@@ -22,7 +22,7 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 ---
 
 📫 **Bana ulaş:**  
-[GitHub](https://github.com/cemal201138) • [E-posta](mailto:cemal201138.dev@gmail.com) • [Sosyal Medya Hesaplarım](https://linktr.ee/CemalEvli)
+[GitHub](https://github.com/cemal201138) • [E-posta](mailto:mylab@cemalevli.qzz.io) • [Sosyal Medya Hesaplarım](https://linktr.ee/CemalEvli)
 
 ---
 
