@@ -1,3 +1,5 @@
+![Cemal'in Aurora Başlığı](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F2FE,100:4FACFE&theme=dark&text=Merhaba,%20Ben%20Cemal!&animation=fadeIn&fontAlignY=40&fontSize=50)
+
 # 👋 Merhaba, ben Cemal!!
 
 Ben Cemal, 9. sınıf öğrencisiyim.  
