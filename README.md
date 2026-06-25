@@ -1,4 +1,10 @@
-![Cemal Evli](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&fontColor=FFFFFF&text=Merhaba,%20Ben%20Cemal!&desc=Developer%20and%20Hobbyist&descAlignY=62&animation=fadeIn&fontAlignY=38&fontSize=50&descSize=20&height=280)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&fontColor=FFFFFF&text=Merhaba,%20Ben%20Cemal!&descAlignY=62&animation=fadeIn&fontAlignY=38&fontSize=50&descSize=20&height=280" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Developer;Hobbyist;Tech+Lover" /></a>
+</p>
 
 # 👋 Merhaba, ben Cemal!!
 
@@ -51,4 +57,7 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 > "**Küçük adımlar, büyük sistemlerin temelidir.**"
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" />
+</p>
+
