@@ -6,20 +6,29 @@ Ben Cemal, 9. sınıf öğrencisiyim.
 Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Python** ile projeler geliştirmeyi seviyorum.  
 
 ## 🚀 Şu anda neler yapıyorum?
+
 - 🎧 Python ile **basit masaüstü araçları** geliştiriyorum.  
 - 📱 **Android–Windows etkileşimi** için **Pushbullet** tabanlı projeler üzerinde çalışıyorum.
 - 💡 Yazılımın mantığını anlamaya ilgi duyuyorum  
 
 ## 🧠 Bildiklerim & Öğrenmekte olduklarım
+
 - Python🐍   
 - Linux🧰  
 - GitHub kullanımı
 - (Hepsi "Temel-Başlangıç" Seviyesindedir)
 
 ## 📊 GitHub İstatistiklerim
-[![Cemal'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=cemal201138&show_icons=true&theme=transparent&locale=tr)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemal201138&show_icons=true&theme=dark&hide_border=true&locale=tr)![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
+
+## 🗂️ Öne Çıkan Projelerim
+
+[![Mottoverse](https://github-readme-stats.vercel.app/api/pin/?username=cemal201138&repo=Mottoverse&theme=dark&hide_border=true)](https://github.com/cemal201138/Mottoverse)
+[![Python Müzik Çalar](https://github-readme-stats.vercel.app/api/pin/?username=cemal201138&repo=Python_Muzik_Calar&theme=dark&hide_border=true)](https://github.com/cemal201138/Python_Muzik_Calar)
 
 ## 🎯 Hedeflerim
+
 - Kendi **Android uygulamamı sıfırdan kodlamak**  
 - **Python ile masaüstü araçları** geliştirmeye çalışmaya devam etmek 
 - **Ağ üzerinden cihaz kontrolü** ve **otomasyon** sistemleri kurmak  
@@ -35,4 +44,4 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ---
 
-> “**Küçük adımlar, büyük sistemlerin temelidir.**”
+> "**Küçük adımlar, büyük sistemlerin temelidir.**"
