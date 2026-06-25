@@ -1,4 +1,4 @@
-![Cemal'in Aurora Başlığı](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F2FE,100:4FACFE&theme=dark&text=Merhaba,%20Ben%20Cemal!&animation=fadeIn&fontAlignY=40&fontSize=50)
+![Cemal Evli](https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&fontColor=FFFFFF&text=Merhaba,%20Ben%20Cemal!&desc=Developer%20and%20Hobbyist&descAlignY=62&animation=fadeIn&fontAlignY=38&fontSize=50&descSize=20&height=280)
 
 # 👋 Merhaba, ben Cemal!!
 
