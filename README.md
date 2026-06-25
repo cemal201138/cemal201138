@@ -14,6 +14,9 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 - GitHub kullanımı
 - (Hepsi "Temel-Başlangıç" Seviyesindedir)
 
+## 📊 GitHub İstatistiklerim
+[![Cemal'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=cemal201138&show_icons=true&theme=transparent&locale=tr)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎯 Hedeflerim
 - Kendi **Android uygulamamı sıfırdan kodlamak**  
 - **Python ile masaüstü araçları** geliştirmeye çalışmaya devam etmek 
@@ -30,6 +33,4 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ---
 
-
 > “**Küçük adımlar, büyük sistemlerin temelidir.**”
-
