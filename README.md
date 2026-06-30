@@ -31,12 +31,12 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemal201138&show_icons=true&theme=dark&hide_border=true&locale=tr)![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api?username=cemal201138&locale=tr&show_icons=true&theme=dark&hide_border=true)![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
 
 ## 🗂️ Öne Çıkan Projelerim
 
-[![Mottoverse](https://github-readme-stats.vercel.app/api/pin/?username=cemal201138&repo=Mottoverse&theme=dark&hide_border=true)](https://github.com/cemal201138/Mottoverse)
-[![Python Müzik Çalar](https://github-readme-stats.vercel.app/api/pin/?username=cemal201138&repo=Python_Muzik_Calar&theme=dark&hide_border=true)](https://github.com/cemal201138/Python_Muzik_Calar)
+[![Mottoverse](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api/pin/?username=cemal201138&repo=Mottoverse&theme=dark&hide_border=true)](https://github.com/cemal201138/Mottoverse)
+[![Python Müzik Çalar](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api/pin/?username=cemal201138&repo=Python_Muzik_Calar&theme=dark&hide_border=true)](https://github.com/cemal201138/Python_Muzik_Calar)
 
 ## 🎯 Hedeflerim
 
