@@ -46,7 +46,6 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 [![1.4]][4]
 [![1.5]][5]
 [![1.6]][6]
-[![1.7]][7]
 
 [1.1]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/github.png
 [1.2]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/facebook.png
@@ -54,7 +53,6 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 [1.4]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/mail.png
 [1.5]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/world-wide-web.png
 [1.6]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/user.png
-[1.7]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/instagram.png
 
 [1]: https://github.com/cemal201138
 [2]: https://www.facebook.com/profile.php?id=100076601840154
@@ -62,7 +60,7 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 [4]: mailto:mylab@cemalevli.qzz.io
 [5]: https://cemalevli.dpdns.org/
 [6]: https://cemalevli.dpdns.org/imcemalevli/
-[7]: https://www.instagram.com/cemalevli38y/
+[3]: https://www.instagram.com/cemalevli38y/
 
 ---
 
