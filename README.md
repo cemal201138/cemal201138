@@ -31,13 +31,7 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api?username=cemal201138&locale=tr&show_icons=true&theme=dark&hide_border=true)![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
-
-## 🗂️ Öne Çıkan Projelerim
-
-[![Mottoverse](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api/pin/?username=cemal201138&repo=Mottoverse&theme=dark&hide_border=true)](https://github.com/cemal201138/Mottoverse)
-[![Python Müzik Çalar](https://github-readme-stats-for-orlcil2ay-cemal201138.vercel.app/api/pin/?username=cemal201138&repo=Python_Muzik_Calar&theme=dark&hide_border=true)](https://github.com/cemal201138/Python_Muzik_Calar)
-
+![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
 ## 🎯 Hedeflerim
 
 ![Android App](https://img.shields.io/badge/🎯%20Hedef-Android%20Uygulama%20Geliştir-302B63?style=for-the-badge)  ![Desktop Tools](https://img.shields.io/badge/🎯%20Hedef-Python%20Masaüstü%20Araçları-302B63?style=for-the-badge)  ![Automation](https://img.shields.io/badge/🎯%20Hedef-Ağ%20Otomasyonu%20Kur-302B63?style=for-the-badge)  
@@ -45,9 +39,30 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 ---
 
 📫 **Bana ulaş:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cemal201138)
-[![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylab@cemalevli.qzz.io)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CemalEvli)
+
+[![1.1]][1]
+[![1.2]][2]
+[![1.3]][3]
+[![1.4]][4]
+[![1.5]][5]
+[![1.6]][6]
+[![1.7]][7]
+
+[1.1]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/github.png
+[1.2]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/facebook.png
+[1.3]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/instagram.png
+[1.4]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/mail.png
+[1.5]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/world-wide-web.png
+[1.6]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/user.png
+[1.7]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/instagram.png
+
+[1]: https://github.com/cemal201138
+[2]: https://www.facebook.com/profile.php?id=100076601840154
+[3]: https://www.instagram.com/cemalevli38/
+[4]: mailto:mylab@cemalevli.qzz.io
+[5]: https://cemalevli.dpdns.org/
+[6]: https://cemalevli.dpdns.org/imcemalevli/
+[7]: https://www.instagram.com/cemalevli38y/
 
 ---
 
