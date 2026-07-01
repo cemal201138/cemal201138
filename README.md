@@ -47,12 +47,12 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 [![1.5]][5]
 [![1.6]][6]
 
-[1.1]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/github.png
-[1.2]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/facebook.png
-[1.3]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/instagram.png
-[1.4]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/mail.png
-[1.5]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/world-wide-web.png
-[1.6]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-png/user.png
+[1.1]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/github.png
+[1.2]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/facebook.png
+[1.3]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/instagram.png
+[1.4]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/mail.png
+[1.5]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/world-wide-web.png
+[1.6]: https://raw.githubusercontent.com/cemal201138/My_Netlify_SitesApps/main/social-logos/user.png
 
 [1]: https://github.com/cemal201138
 [2]: https://www.facebook.com/profile.php?id=100076601840154
