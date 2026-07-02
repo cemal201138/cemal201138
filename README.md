@@ -31,7 +31,7 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var ve özellikle **Pyth
 
 ## 📊 GitHub İstatistiklerim
 
-![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)
+[![Streak](https://streak-stats.demolab.com/?user=cemal201138&theme=dark&hide_border=true)](https://github.com/cemal201138)
 ## 🎯 Hedeflerim
 
 ![Android App](https://img.shields.io/badge/🎯%20Hedef-Android%20Uygulama%20Geliştir-302B63?style=for-the-badge)  ![Desktop Tools](https://img.shields.io/badge/🎯%20Hedef-Python%20Masaüstü%20Araçları-302B63?style=for-the-badge)  ![Automation](https://img.shields.io/badge/🎯%20Hedef-Ağ%20Otomasyonu%20Kur-302B63?style=for-the-badge)  
